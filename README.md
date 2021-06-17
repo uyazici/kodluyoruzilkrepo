@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+eğitim kapsamında repo

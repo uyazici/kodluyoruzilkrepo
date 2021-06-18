@@ -1,11 +1,12 @@
 # kodluyoruzilkrepo
-#Umut YAZICI
+# Umut YAZICI
 
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_754,h_365/https://www.gencprogramci.org/wp-content/uploads/2021/03/6efb9bc5d143-article-190612-github-body-text-754x365.jpg)
+
 
 ## Installation
 
